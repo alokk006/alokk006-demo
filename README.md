@@ -4,5 +4,3 @@ This is my first Git Repository.
 Konnichiwa, Hajimemashite.
 O genki desu ka? or O daijobu desu ka?
 
-
-
